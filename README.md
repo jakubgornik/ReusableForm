@@ -1,7 +1,6 @@
 # ReusableForm
 
 Reusable form component to practice data manipulation with http requests.
-
 The component follows RWD standards.
 
 Languages and Tools:
