@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1674915005535,
+      "name": "Jakub Górnik",
+      "email": "postrequest@gmail.com",
+      "workStart": "2023-01-25",
+      "workEnd": "2023-01-29"
+    },
+    {
+      "id": 1677508154613,
+      "name": "Kamil Mędrala",
+      "email": "putrequest@gmail.com",
+      "workStart": "2023-02-19",
+      "workEnd": "2023-02-20"
+    },
+    {
+      "id": 1677508216543,
+      "name": "Kacper Mietkowski",
+      "email": "kmiet@gmail.com",
+      "workStart": "2023-02-22",
+      "workEnd": "2023-02-27"
+    },
+    {
+      "id": 1677508255975,
+      "name": "Andrzej Mlot",
+      "email": "mlota@outlook.com",
+      "workStart": "2023-02-27",
+      "workEnd": "2023-05-17"
+    },
+    {
+      "id": 1677508272035,
+      "name": "Pawel Marka",
+      "email": "markapawel@outlook.com",
+      "workStart": "2023-02-27",
+      "workEnd": "2023-05-01"
+    },
+    {
+      "id": 1677508293373,
+      "name": "Mariusz Sośnierz",
+      "email": "sosmariusz@outlook.com",
+      "workStart": "2023-02-03",
+      "workEnd": "2023-05-19"
+    }
+  ]
+}

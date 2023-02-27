@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-calendar-picker-indicator {
+  @apply w-10 h-10 opacity-0;
+}
+
+@layer components {
+  .even-child {
+    background-color: #f2f2f2;
+  }
+}
+
+ul li:nth-child(even) {
+  @apply even-child;
+}
